@@ -13,3 +13,17 @@ h1 {
 h2 {
     color: #f0c75e;
 }
+nav {
+    margin-bottom: 30px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #d4af37;
+}
